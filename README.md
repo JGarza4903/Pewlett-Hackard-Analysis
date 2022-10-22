@@ -6,4 +6,5 @@ To determine the amount of employees that are close to retiring and create a lis
 ## Results
 * Total amount of employees close to reirement is 72,458
 * The majority of employees retiring are from "Senior" positions, totaling over 50,000 employees.
-[Count of Employees close to Retiring by Title](https://github.com/JGarza4903/Pewlett-Hackard-Analysis/blob/main/Images/count_retiring_titles.png)
+
+![Count of Employees close to Retiring by Title](https://github.com/JGarza4903/Pewlett-Hackard-Analysis/blob/main/Images/count_retiring_titles.png)
