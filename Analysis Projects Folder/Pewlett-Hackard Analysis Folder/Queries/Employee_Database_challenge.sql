@@ -49,7 +49,7 @@ SELECT DISTINCT ON (emp_no)
     de.from_date,
     de.to_date,
 	t.title
---INTO retirement_titles
+INTO membership_eligibility
 FROM employees as e
 INNER JOIN dept_employee as de
 ON (de.emp_no = e.emp_no)
@@ -58,3 +58,13 @@ ON (de.emp_no = t.emp_no)
 WHERE (de.to_date = '9999-01-01')
 AND (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY (emp_no);
+
+
+--How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+SELECT SUM (count) FROM retiring_titles;
+
+--How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+SELECT COUNT (emp_no),
+	title
+FROM mentorship_eligibility
+GROUP BY (title);
