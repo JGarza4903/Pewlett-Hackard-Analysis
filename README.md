@@ -18,5 +18,5 @@ In order to fill the roles of soon to retire employees, the company will need to
 
 The amount of eligible candidates for a mentorship program is very high in most departments such as 'Staff' and 'Senior Engineers'
 
-[Roles to Fill]
+[Eligible Candidates for Mentorship program by Department](https://github.com/JGarza4903/Pewlett-Hackard-Analysis/blob/main/Images/roles_to_be_filled.png)
 
