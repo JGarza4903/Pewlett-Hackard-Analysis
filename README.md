@@ -14,6 +14,6 @@ To determine the amount of employees that are close to retiring and create a lis
 * To view a the full report of [Mentorship Eligibility](https://github.com/JGarza4903/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Data/mentorship_eligibility.csv)
 
 ## Summary
-In order to fill the roles of soon to retire employees, the company will need to fill the following positions through out company to overcome the wave of 'silver tsunami'.
+In order to fill the roles of soon to retire employees, the company will need to fill the following positions through out the company to overcome the wave of 'silver tsunami' or those close to retirement.
 
 
