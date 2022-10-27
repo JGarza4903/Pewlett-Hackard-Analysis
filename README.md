@@ -5,7 +5,7 @@ To determine the amount of employees that are close to retiring and create a lis
 
 ## Results
 * Total amount of employees close to reirement is 72,458
-* The majority of employees retiring are from "Senior" positions, totaling over 50,000 employees.
+* The majority of employees retiring are from "Senior" positions, totaling over 70,000 employees.
 
 ![Count of Employees close to Retiring by Title](https://github.com/JGarza4903/Pewlett-Hackard-Analysis/blob/main/Images/count_retiring_titles.png)
 
@@ -16,4 +16,5 @@ To determine the amount of employees that are close to retiring and create a lis
 ## Summary
 In order to fill the roles of soon to retire employees, the company will need to fill the following positions through out the company to overcome the wave of 'silver tsunami' or those close to retirement.
 
+[Roles to Fill]
 
